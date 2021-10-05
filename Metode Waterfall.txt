@@ -4,5 +4,5 @@ pengembangan tradisional yang sistematis yang sudah ditentukan dari awal oleh pe
 - Sistem Design         = menentukan sistem yang telah didefiniusikan
 - Implementation        = pengaplikasian
 - Testing               = pengujian
-- Deployment            = disebarluaskan
+- Deployment            = disebarluaskan pada perangkat pengguna secara umum
 
