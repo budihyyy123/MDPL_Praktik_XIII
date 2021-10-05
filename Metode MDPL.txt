@@ -1,4 +1,5 @@
 Metode Waterfall
+pengembangan tradisional yang sistematis yang sudah ditentukan dari awal oleh pengembang dan pengguna
 - Requirement analysis  = memahami software yang diharapkan pelanggan dan batasan software
 - Sistem Design         = menentukan sistem yang telah didefiniusikan
 - Implementation        = pengaplikasian
