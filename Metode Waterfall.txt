@@ -5,4 +5,4 @@ pengembangan tradisional yang sistematis yang sudah ditentukan dari awal oleh pe
 - Implementation        = pengaplikasian
 - Testing               = pengujian
 - Deployment            = disebarluaskan
-- Maintance             = mengevaluasi dan memperbaiki
+
